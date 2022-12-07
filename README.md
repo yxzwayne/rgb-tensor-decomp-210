@@ -9,6 +9,7 @@
 ## Instructions
 
 1. Ensure that the following libraries are installed in your Python 3 environment:
+  - scipy
   - pillow
   - tensorly
   - matplotlib
